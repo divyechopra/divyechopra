@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)](https://divyechopra.io)
+[![MasterHead](https://clideoffice.com/web/image/4379/Next-Gen-Learning-Management-System-1.gif)](https://divyechopra.io)
 
 <h1 align="center">Hi 👋, I'm Divye Chopra</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
