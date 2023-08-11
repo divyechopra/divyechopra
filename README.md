@@ -1,4 +1,5 @@
-[![MasterHead](https://clideoffice.com/web/image/4379/Next-Gen-Learning-Management-System-1.gif)](https://divyechopra.io)
+<img align="right" alt="Coding" width="900" src="https://clideoffice.com/web/image/4379/Next-Gen-Learning-Management-System-1.gif">
+
 
 <h1 align="center">Hi 👋, I'm Divye Chopra</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
