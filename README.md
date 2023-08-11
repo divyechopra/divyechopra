@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="900" src="https://clideoffice.com/web/image/4379/Next-Gen-Learning-Management-System-1.gif">
-
+[![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
 <h1 align="center">Hi 👋, I'm Divye Chopra</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
