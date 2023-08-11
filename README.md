@@ -1,4 +1,6 @@
-[![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e473hvekkmbz2c46ozygekrg3yhu6mpeoh5bynwmkbc&rid=giphy.gif&ct=g" width="500"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Divye Chopra</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
