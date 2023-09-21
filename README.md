@@ -3,8 +3,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Divye Chopra</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
-
+<!-- <h3 align="center">Aspiring Data Analyst</h3>
+ -->
 <img align="right" alt="Coding" width="400" src="https://www.element61.be/sites/default/files/img_competences/developer-dribbble.gif">
 
 
